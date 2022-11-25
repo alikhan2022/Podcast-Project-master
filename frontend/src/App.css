@@ -1,0 +1,9 @@
+.player-bottom{
+    height: 5vh;
+}
+.audioplayer{
+    width: 100%;
+    border-radius: 0;
+    /* padding: 10px; */
+    margin: 2px solid black;
+}
