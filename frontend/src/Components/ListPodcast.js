@@ -23,6 +23,7 @@ const ListPodcast = () => {
                     {/* <div className="d-flex justify-content-between p-3">
                     <p className="lead mb-0">Upload By</p>
                     <div
+                    
                         className="bg-info rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
                         style={{ width: 35, height: 35 }}
                     >
